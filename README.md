@@ -66,10 +66,10 @@
 
 ### ADC Signal
 #### Classification/Motion Recognition
-2020 - Radar Image Reconstruction from Raw ADC Data using Parametric Variational Autoencoder with Domain Adaptation __`ICPR`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9412858)]
-2021 - Improved Target Detection and Feature Extraction using a Complex-Valued Adaptive Sine Filter on Radar Time Domain Data __`EUSIPCO`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9616250)]
-2021 - Data-Driven Radar Processing Using a Parametric Convolutional Neural Network for Human Activity Classification __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9464267)]
-2023 - CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
+* 2020 - Radar Image Reconstruction from Raw ADC Data using Parametric Variational Autoencoder with Domain Adaptation __`ICPR`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9412858)]
+* 2021 - Improved Target Detection and Feature Extraction using a Complex-Valued Adaptive Sine Filter on Radar Time Domain Data __`EUSIPCO`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9616250)]
+* 2021 - Data-Driven Radar Processing Using a Parametric Convolutional Neural Network for Human Activity Classification __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9464267)]
+* 2023 - CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
 
 
 ### Radar Tensor
