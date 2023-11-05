@@ -10,6 +10,7 @@
   - [Representations](#representations)
     - [ADC Signal](#adc-signal)
       - [Classification/Motion Recognition](#classificationmotion-recognition)
+      - [Object Dection](#object-dection)
     - [Radar Tensor](#radar-tensor)
       - [Detection](#detection)
       - [Segmentation](#segmentation)
@@ -26,6 +27,7 @@
       - [Segmentation](#segmentation-2)
     - [Micro-Doppler Signature](#micro-doppler-signature)
       - [Motion (Gait/Gestures/Activity) Classification](#motion-gaitgesturesactivity-classification)
+  - [Calibration](#calibration)
   - [Citation](#citation)
 
 
@@ -71,6 +73,10 @@
 * 2021 - Data-Driven Radar Processing Using a Parametric Convolutional Neural Network for Human Activity Classification __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9464267)]
 * 2023 - CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
 
+#### Object Dection
+* 2023 - T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.16940)]
+* 2023 - Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion __`arXiv`__ [[Paper](https://arxiv.org/abs/2307.16532)]
+
 
 ### Radar Tensor
 #### Detection
@@ -95,7 +101,9 @@
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
 
 #### Multi-Task
+* 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
 * 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
+
 
 ### Point Cloud
 #### Classification
@@ -168,6 +176,12 @@
  <!-- Doppler-radar based hand gesture recognition system using convolutional neural networks -->
  <!-- Practical classification of different moving targets using automotive radar and deep neural networks -->
 
+## Calibration
+* 2019 - Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced by radar cross section estimates evaluation [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889018301994)]
+* 2021 - A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9380784)]
+* 2021 - 3D Detection and Tracking for On-road Vehicles with a Monovision Camera and Dual Low-cost 4D mmWave Radars __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9564904)]
+* 2022 - 3DRadar2ThermalCalib: Accurate Extrinsic Calibration between a 3D mmWave Radar and a Thermal Camera Using a Spherical-Trihedral __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9922522)]
+* 2022 - K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions  __`NeurIPS`__ [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
 
 ## Citation
 Please use the following citation when referencing
