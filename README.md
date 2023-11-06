@@ -88,6 +88,7 @@
 * 2020 - Range-Doppler Detection in Automotive Radar with Deep Learning __`RD`__ __`IJCNN`__ [[Paper](https://ieeexplore.ieee.org/document/9207080)]
 * 2020 - RAMP-CNN: A Novel Neural Network for Enhanced Automotive Radar Object Recognition __`RAD`__ __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9249018)]
 * 2020 - CNN Based Road User Detection Using the 3D Radar Cube __`RAD`__ __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8962258)]
+* 2021 - [**GTR-Net**] Graph Convolutional Networks for 3D Object Detection on Radar Data __`RAD`__ __`ICCV Workshop`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Meyer_Graph_Convolutional_Networks_for_3D_Object_Detection_on_Radar_Data_ICCVW_2021_paper.html?ref=https://githubhelp.com)]
 * 2021 - RADDet: Range-Azimuth-Doppler based Radar Object Detection for Dynamic Road Users __`RAD`__ __`CRV`__ [__`RADDet`__][[Paper](https://ieeexplore.ieee.org/document/9469418)] [[Code](https://github.com/ZhangAoCanada/RADDet)]
 * 2022 - DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps __`RD`__ __`IV`__ [__`CARRADA`__ __`RADDet`__] [[Paper](https://ieeexplore.ieee.org/document/9827281)]
 * 2022 - K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions __`RADE`__ __`NeurIPS`__ [__`K-Radar`__][[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
@@ -119,6 +120,7 @@
 * 2020 - Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Scheiner_Seeing_Around_Street_Corners_Non-Line-of-Sight_Detection_and_Tracking_In-the-Wild_Using_CVPR_2020_paper.html)]
 * 2021 - RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9564754)] [[Code](https://github.com/adept-thu/RPFA-Net)]
 * 2022 - Contrastive Learning for Automotive mmWave Radar Detection Points Based Instance Segmentation __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/document/9922540)]
+* 2023 - 3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud __`IEEE Sensors`__ [__`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/9944629)]
 * 2023 - SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar __`TIV`__ [__`VoD`__ __`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10274127)]
 * 2023 - MVFAN: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__][[Paper](https://arxiv.org/abs/2310.16389)]
 
