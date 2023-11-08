@@ -1,4 +1,4 @@
-# <img src='image/logo.png' height=35 /> Awesome Radar Perception 
+# <img src='image/logo.png' height=30 /> Awesome Radar Perception 
 
 ## Overview
 
