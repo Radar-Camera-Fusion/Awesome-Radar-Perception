@@ -11,6 +11,7 @@
     - [ADC Signal](#adc-signal)
       - [Classification/Motion Recognition](#classificationmotion-recognition)
       - [Object Dection](#object-dection)
+      - [Vital Sign](#vital-sign)
     - [Radar Tensor](#radar-tensor)
       - [Detection](#detection)
       - [Segmentation](#segmentation)
@@ -36,6 +37,7 @@
 * 2023 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
 * 2023 - Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges __`ACCESS`__ [[Paper](https://ieeexplore.ieee.org/document/10242101)]
 * 2023 - Vehicle Detection for Autonomous Driving: A Review of Algorithms and Datasets __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10196355)]
+* 2023 - An Overview of Algorithms for Contactless Cardiac Feature Extraction from Radar Signals: Advances and Challenges __`TIM`__ [[Paper](https://ieeexplore.ieee.org/document/10198368)]
   
 ## Datasets
 | Id | Name             | Year | Task                                                                                                      | Annotation                     | Data Representation                                   | Link                                                         |
@@ -71,12 +73,18 @@
 * 2020 - Radar Image Reconstruction from Raw ADC Data using Parametric Variational Autoencoder with Domain Adaptation __`ICPR`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9412858)]
 * 2021 - Improved Target Detection and Feature Extraction using a Complex-Valued Adaptive Sine Filter on Radar Time Domain Data __`EUSIPCO`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9616250)]
 * 2021 - Data-Driven Radar Processing Using a Parametric Convolutional Neural Network for Human Activity Classification __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9464267)]
+* 2022 - Detection of Human Breathing in Non-Line-of-Sight Region by Using mmWave FMCW Radar __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9897091)]
 * 2023 - CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
 
 #### Object Dection
 * 2023 - T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.16940)]
 * 2023 - Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion __`arXiv`__ [[Paper](https://arxiv.org/abs/2307.16532)]
 
+#### Vital Sign
+
+A theoretical investigation of the detection of vital signs in presence of car vibrations and radar-based passenger classification
+
+Driver vital signs monitoring using millimeter wave radio
 
 ### Radar Tensor
 #### Detection
@@ -93,6 +101,7 @@
 * 2022 - DAROD: A Deep Automotive Radar Object Detector on Range-Doppler maps __`RD`__ __`IV`__ [__`CARRADA`__ __`RADDet`__] [[Paper](https://ieeexplore.ieee.org/document/9827281)]
 * 2022 - K-Radar: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions __`RADE`__ __`NeurIPS`__ [__`K-Radar`__][[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
 * 2023 - Enhanced K-Radar: Optimal Density Reduction to Improve Detection Performance and Accessibility of 4D Radar Tensor-based Object Detection __`RADE`__ __`arXiv`__ [__`K-Radar`__][[Paper](https://arxiv.org/abs/2303.06342)]
+
 
 
 #### Segmentation
@@ -159,6 +168,7 @@
 * 2019 - Semantic Segmentation on Automotive Radar Maps __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8813808)]
 * 2019 - Occupancy Grids Generation Using Deep Radar Network for Autonomous Driving __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8916897)]
 * 2020 - Semantic Segmentation on 3D Occupancy Grids for Automotive Radar __`IEEE ACCESS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9229096)]
+* 2023 - **NVRadarNet**: Real-Time Radar Obstacle and Free Space Detection for Autonomous Driving __`RA`__ __`ICRA`__ [[Paper](https://arxiv.org/abs/2209.14499)]
 
 
 #### Segmentation
