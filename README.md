@@ -74,11 +74,13 @@
 * 2021 - Improved Target Detection and Feature Extraction using a Complex-Valued Adaptive Sine Filter on Radar Time Domain Data __`EUSIPCO`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9616250)]
 * 2021 - Data-Driven Radar Processing Using a Parametric Convolutional Neural Network for Human Activity Classification __`IEEE Sensors`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9464267)]
 * 2022 - Detection of Human Breathing in Non-Line-of-Sight Region by Using mmWave FMCW Radar __`TIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9897091)]
-* 2023 - CubeLearn: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
+* 2023 - **CubeLearn**: End-to-End Learning for Human Motion Recognition From Raw mmWave Radar Signals __`IEEE IOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10018429)]
+
 
 #### Object Dection
 * 2023 - T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.16940)]
 * 2023 - Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion __`arXiv`__ [[Paper](https://arxiv.org/abs/2307.16532)]
+* 2023 - Azimuth Super-Resolution for FMCW Radar in Autonomous Driving __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Azimuth_Super-Resolution_for_FMCW_Radar_in_Autonomous_Driving_CVPR_2023_paper.html)]
 
 #### Vital Sign
 
