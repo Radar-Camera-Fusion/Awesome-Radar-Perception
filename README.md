@@ -78,15 +78,20 @@
 
 
 #### Object Dection
-* 2023 - T-FFTRadNet: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.16940)]
+* 2023 - **ADCNet**: End-to-end perception with raw radar ADC data __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.11420)]
+* 2023 - **T-FFTRadNet**: Object Detection with Swin Vision Transformers from Raw ADC Radar Signals __`arXiv`__ [[Paper](https://arxiv.org/abs/2303.16940)]
 * 2023 - Echoes Beyond Points: Unleashing the Power of Raw Radar Data in Multi-modality Fusion __`arXiv`__ [[Paper](https://arxiv.org/abs/2307.16532)]
 * 2023 - Azimuth Super-Resolution for FMCW Radar in Autonomous Driving __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Li_Azimuth_Super-Resolution_for_FMCW_Radar_in_Autonomous_Driving_CVPR_2023_paper.html)]
 
+
 #### Vital Sign
+* 2016 - RF-based child occupation detection in the vehicle interior __`IRS`__ [[Paper](https://ieeexplore.ieee.org/document/7497352)]
+* 2019 - A Theoretical Investigation of the Detection of Vital Signs in Presence of Car Vibrations and RADAR-Based Passenger Classification __`TVT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8638548)]
+<!-- * 2021 - Driver vital signs monitoring using millimeter wave radio __`JIOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9615374)] -->
+* 2020 - Non-Contact Vital Signs Monitoring for Multiple Subjects Using a Millimeter Wave FMCW Automotive Radar __`IMS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9223838)]
+* 2023 - Sparsity-Based Multi-Person Non-Contact Vital Signs Monitoring via FMCW Radar __`JBHI`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10065434)]
+* 2023 - Radar-Based Monitoring of Vital Signs: A Tutorial Overview __`JPROC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10049295)]
 
-A theoretical investigation of the detection of vital signs in presence of car vibrations and radar-based passenger classification
-
-Driver vital signs monitoring using millimeter wave radio
 
 ### Radar Tensor
 #### Detection
@@ -105,7 +110,6 @@ Driver vital signs monitoring using millimeter wave radio
 * 2023 - Enhanced K-Radar: Optimal Density Reduction to Improve Detection Performance and Accessibility of 4D Radar Tensor-based Object Detection __`RADE`__ __`arXiv`__ [__`K-Radar`__][[Paper](https://arxiv.org/abs/2303.06342)]
 
 
-
 #### Segmentation
 * 2020 - RSS-Net: Weakly-supervised multi-class semantic segmentation with FMCW radar __`RAD`__ __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9304674)]
 * 2020 - Deep Open Space Segmentation using Automotive Radar __`RAD`__ __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9299052)]
@@ -113,8 +117,8 @@ Driver vital signs monitoring using millimeter wave radio
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
 
 #### Multi-Task
-* 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
-* 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
+* 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [__`RADIal`__] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
+* 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data  __`RD`__ __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
 
 
 ### Point Cloud
@@ -130,6 +134,7 @@ Driver vital signs monitoring using millimeter wave radio
 * 2020 - Detection and Tracking on Automotive Radar Data with Deep Learning __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9190261)]
 * 2020 - Seeing Around Street Corners: Non-Line-of-Sight Detection and Tracking In-the-Wild Using Doppler Radar __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content_CVPR_2020/html/Scheiner_Seeing_Around_Street_Corners_Non-Line-of-Sight_Detection_and_Tracking_In-the-Wild_Using_CVPR_2020_paper.html)]
 * 2021 - RPFA-Net: a 4D RaDAR Pillar Feature Attention Network for 3D Object Detection __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9564754)] [[Code](https://github.com/adept-thu/RPFA-Net)]
+* 2021 - Comparison of Different Approaches for Identification of Radar Ghost Detections in Automotive Scenarios __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/document/9454980)]
 * 2022 - Contrastive Learning for Automotive mmWave Radar Detection Points Based Instance Segmentation __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/document/9922540)]
 * 2023 - 3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud __`IEEE Sensors`__ [__`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/9944629)]
 * 2023 - SMURF: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar __`TIV`__ [__`VoD`__ __`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10274127)]
@@ -175,6 +180,7 @@ Driver vital signs monitoring using millimeter wave radio
 
 #### Segmentation
 * 2019 - Road Scene Understanding by Occupancy Grid Learning from Sparse Radar Clusters using Semantic Segmentation __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Sless_Road_Scene_Understanding_by_Occupancy_Grid_Learning_from_Sparse_Radar_ICCVW_2019_paper.html)]
+* CNN based road course estimation on automotive radar data with various gridmaps __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/document/9299086)]
 * 2020 - Scene Understanding With Automotive Radar __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8911477)]
 * 2023 - Semantic Segmentation-Based Occupancy Grid Map Learning With Automotive Radar Raw Data __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10273590)]
 
