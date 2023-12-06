@@ -88,7 +88,6 @@
 #### Vital Sign
 * 2016 - RF-based child occupation detection in the vehicle interior __`IRS`__ [[Paper](https://ieeexplore.ieee.org/document/7497352)]
 * 2019 - A Theoretical Investigation of the Detection of Vital Signs in Presence of Car Vibrations and RADAR-Based Passenger Classification __`TVT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8638548)]
-<!-- * 2021 - Driver vital signs monitoring using millimeter wave radio __`JIOT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9615374)] -->
 * 2020 - Non-Contact Vital Signs Monitoring for Multiple Subjects Using a Millimeter Wave FMCW Automotive Radar __`IMS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9223838)]
 * 2023 - Sparsity-Based Multi-Person Non-Contact Vital Signs Monitoring via FMCW Radar __`JBHI`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10065434)]
 * 2023 - Radar-Based Monitoring of Vital Signs: A Tutorial Overview __`JPROC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10049295)]
@@ -143,7 +142,7 @@
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
-* 2018 - Supervised Clustering for Radar Applications: On the Way to Radar Instance Segmentation __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8917000)]
+* 2018 - Supervised Clustering for Radar Applications: On the Way to Radar Instance Segmentation __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/document/8443534)]
 * 2019 - 2D Car Detection in Radar Data with PointNets __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8917000)]
 * 2020 - RSS-Net: Weakly-Supervised Multi-Class Semantic Segmentation with FMCW Radar __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9304674)]
 * 2022 - Panoptic Segmentation for Automotive Radar Point Cloud __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/document/9764218)]
