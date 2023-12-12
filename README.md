@@ -100,6 +100,7 @@
 * 2023 - Radar-Based Monitoring of Vital Signs: A Tutorial Overview __`JPROC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10049295)]
 
 
+---
 ### Radar Tensor
 <img src='image/radar-tensor.png' width=500 /> 
 
@@ -129,7 +130,7 @@
 * 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [__`RADIal`__] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
 * 2023 - Cross-Modal Supervision-Based Multitask Learning With Automotive Radar Raw Data  __`RD`__ __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10008067)]
 
-
+---
 ### Point Cloud
 <img src='image/point-cloud.png' width=500 /> 
 
@@ -175,6 +176,7 @@
 * 2021 - Person Reidentification Based on Automotive Radar Point Clouds __`TGRS`__ [[Paper](https://ieeexplore.ieee.org/document/9420713)]
 * 2020 - Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing __`AAAI`__ [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5430)]
 
+---
 ### Grid Map
 <img src='image/grid-map.png' width=500 /> 
 
@@ -197,6 +199,7 @@
 * 2020 - Scene Understanding With Automotive Radar __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8911477)]
 * 2023 - Semantic Segmentation-Based Occupancy Grid Map Learning With Automotive Radar Raw Data __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10273590)]
 
+---
 ### Micro-Doppler Signature
 <img src='image/MDS.png' width=500 /> 
 
