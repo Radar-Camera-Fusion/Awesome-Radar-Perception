@@ -1,9 +1,8 @@
 # <img src='image/logo.png' height=30 /> Awesome Radar Perception 
 
+<img src='image/cover.png' width=600 /> 
+
 ## Overview
-
-
-- [Overview](#overview)
 - [Surveys](#surveys)
 - [Datasets](#datasets)
 - [Representations](#representations)
@@ -75,6 +74,8 @@
 ## Representations
 
 ### ADC Signal
+<img src='image/ADC.png' width=500 /> 
+
 #### Classification/Motion Recognition
 * 2020 - Radar Image Reconstruction from Raw ADC Data using Parametric Variational Autoencoder with Domain Adaptation __`ICPR`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9412858)]
 * 2021 - Improved Target Detection and Feature Extraction using a Complex-Valued Adaptive Sine Filter on Radar Time Domain Data __`EUSIPCO`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9616250)]
@@ -100,6 +101,8 @@
 
 
 ### Radar Tensor
+<img src='image/radar-tensor.png' width=500 /> 
+
 #### Detection
 * 2019 - Experiments with mmWave Automotive Radar Test-bed __`RA`__ __`ACSSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9048939)]
 * 2019 - Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors __`RAD`__ __`ICCVW`__ [[Paper](https://ieeexplore.ieee.org/document/9022248)]
@@ -128,6 +131,8 @@
 
 
 ### Point Cloud
+<img src='image/point-cloud.png' width=500 /> 
+
 #### Classification
 * 2017 - Comparison of random forest and long short-term memory network performances in classification tasks using radar __`SDF`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8126350)]
 * 2018 - Radar-based Feature Design and Multiclass Classification for Road User Recognition __`IV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8500607)]
@@ -171,6 +176,8 @@
 * 2020 - Gait Recognition for Co-Existing Multiple People Using Millimeter Wave Sensing __`AAAI`__ [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/5430)]
 
 ### Grid Map
+<img src='image/grid-map.png' width=500 /> 
+
 #### Detection
 * 2015 - Automotive Radar Gridmap Representations __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/7117922)]
 * 2015 - Detection of Arbitrarily Rotated Parked Cars Based on Radar Sensors __`IRS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/7226281)]
@@ -191,6 +198,8 @@
 * 2023 - Semantic Segmentation-Based Occupancy Grid Map Learning With Automotive Radar Raw Data __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10273590)]
 
 ### Micro-Doppler Signature
+<img src='image/MDS.png' width=500 /> 
+
 #### Motion (Gait/Gestures/Activity) Classification
 * 2016 - Human Detection and Activity Classification Based on Micro-Doppler Signatures Using Deep Convolutional Neural Networks __`IEEE Geoscience and Remote Sensing Letters`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/7314905)]
 * 2017 - New Analysis of Radar Micro-Doppler Gait Signatures for Rehabilitation and Assisted Living __`ICASSP`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/7952908)]
