@@ -171,8 +171,8 @@
 * 2023 - Moving Object Detection and Tracking with 4D Radar Point Cloud [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)]
 
 #### Scene Flow
-* 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356)]
-* 2023 - Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision-Supplementary Material [__`VoD`__] __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ding_Hidden_Gems_4D_Radar_Scene_Flow_Learning_Using_Cross-Modal_Supervision_CVPR_2023_paper.html)]
+* 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356) [Code](https://github.com/Toytiny/RaFlow)]
+* 2023 - Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision-Supplementary Material [__`VoD`__] __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ding_Hidden_Gems_4D_Radar_Scene_Flow_Learning_Using_Cross-Modal_Supervision_CVPR_2023_paper.html) [Code](https://github.com/Toytiny/CMFlow)]
 
 
 #### Odometry
