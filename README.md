@@ -19,7 +19,8 @@
     - [Detection](#detection-1)
     - [Segmentation](#segmentation-1)
     - [Tracking](#tracking)
-    - [Odometry](#odometry)
+    - [Tracking](#tracking)
+    - [Scene Flow](#scene-flow)
     - [Gait Recognition](#gait-recognition)
   - [Grid Map](#grid-map)
     - [Detection](#detection-2)
@@ -150,7 +151,8 @@
 * 2022 - Contrastive Learning for Automotive mmWave Radar Detection Points Based Instance Segmentation __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/document/9922540)]
 * 2023 - 3-D Object Detection for Multiframe 4-D Automotive Millimeter-Wave Radar Point Cloud __`IEEE Sensors`__ [__`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/9944629)]
 * 2023 - **SMURF**: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar __`TIV`__ [__`VoD`__ __`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10274127)]
-* 2023 - **MVFAN**: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__][[Paper](https://arxiv.org/abs/2310.16389)]
+* 2023 - **MVFAN**: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__] [[Paper](https://arxiv.org/abs/2310.16389)]
+* 2023 - See Beyond Seeing: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination [_`VoD`__] [[Paper](https://arxiv.org/abs/2309.17336)]
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
@@ -166,6 +168,11 @@
 #### Tracking
 * 2020 - Detection and Tracking on Automotive Radar Data with Deep Learning __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9190261)]
 * 2023 - Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar? __`arXiv`__ [[Paper](https://arxiv.org/abs/2309.06036)]
+* 2023 - Moving Object Detection and Tracking with 4D Radar Point Cloud [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)]
+
+#### Scene Flow
+* 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356)]
+* 2023 - Hidden Gems: 4D Radar Scene Flow Learning Using Cross-Modal Supervision-Supplementary Material [__`VoD`__] __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ding_Hidden_Gems_4D_Radar_Scene_Flow_Learning_Using_Cross-Modal_Supervision_CVPR_2023_paper.html)]
 
 
 #### Odometry
