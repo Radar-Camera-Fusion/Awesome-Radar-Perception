@@ -11,8 +11,10 @@
     - [Object Dection](#object-dection)
     - [Vital Sign](#vital-sign)
   - [Radar Tensor](#radar-tensor)
+    - [Classification](#classification)
     - [Detection](#detection)
     - [Segmentation](#segmentation)
+    - [Tracking](#tracking)
     - [Multi-Task](#multi-task)
   - [Point Cloud](#point-cloud)
     - [Classification](#classification)
@@ -21,6 +23,7 @@
     - [Tracking](#tracking)
     - [Tracking](#tracking)
     - [Scene Flow](#scene-flow)
+    - [Odometry](#odometry)
     - [Gait Recognition](#gait-recognition)
   - [Grid Map](#grid-map)
     - [Detection](#detection-2)
@@ -34,7 +37,7 @@
 ## Surveys
 * 2023 - Radar Perception in Autonomous Driving: Exploring Different Data Representations __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
 * 2023 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
-* 2023 - Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar __`CVPRW`__ [[Paper](https://arxiv.org/abs/2308.05478)]
+* 2023 - Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar __`CVPR Workshop`__ [[Paper](https://arxiv.org/abs/2308.05478)]
 * 2023 - Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges __`ACCESS`__ [[Paper](https://ieeexplore.ieee.org/document/10242101)]
 * 2023 - Vehicle Detection for Autonomous Driving: A Review of Algorithms and Datasets __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10196355)]
 * 2023 - An Overview of Algorithms for Contactless Cardiac Feature Extraction from Radar Signals: Advances and Challenges __`TIM`__ [[Paper](https://ieeexplore.ieee.org/document/10198368)]
@@ -105,10 +108,14 @@
 ### Radar Tensor
 <img src='image/radar-tensor.png' width=500 /> 
 
+#### Classification
+* 2019 - Deep Learning-based Object Classification on Automotive Radar Spectra __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8835775)]
+* 2021 - Deep learning on automotive radar spectra and reflections for object classification __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8835775)]
+
 #### Detection
 * 2019 - Experiments with mmWave Automotive Radar Test-bed __`RA`__ __`ACSSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9048939)]
-* 2019 - Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors __`RAD`__ __`ICCVW`__ [[Paper](https://ieeexplore.ieee.org/document/9022248)]
-* 2020 - Probabilistic oriented object detection in automotive radar __`RA`__ __`CVPRW`__ [[Paper](https://ieeexplore.ieee.org/document/9150751)]
+* 2019 - Vehicle Detection With Automotive Radar Using Deep Learning on Range-Azimuth-Doppler Tensors __`RAD`__ __`ICCV Workshop`__ [[Paper](https://ieeexplore.ieee.org/document/9022248)]
+* 2020 - Probabilistic oriented object detection in automotive radar __`RA`__ __`CVPR Workshop`__ [[Paper](https://ieeexplore.ieee.org/document/9150751)]
 * 2020 - **RODNet**: Radar Object Detection Using Cross-Modal Supervision __`RA`__  __`WACV`__ [__`CRUW`__] [[Paper](https://openaccess.thecvf.com/content/WACV2021/papers/Wang_RODNet_Radar_Object_Detection_Using_Cross-Modal_Supervision_WACV_2021_paper.pdf)]
 * 2020 - **RODNet**: A Real-Time Radar Object Detection Network Cross-Supervised by Camera-Radar Fused Object 3D Localization __`RA`__ __`JSTSP`__  [__`CRUW`__] [[Paper](https://ieeexplore.ieee.org/document/9353210)]
 * 2020 - Range-Doppler Detection in Automotive Radar with Deep Learning __`RD`__ __`IJCNN`__ [[Paper](https://ieeexplore.ieee.org/document/9207080)]
@@ -117,8 +124,11 @@
 * 2021 - [**GTR-Net**] Graph Convolutional Networks for 3D Object Detection on Radar Data __`RAD`__ __`ICCV Workshop`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021W/AVVision/html/Meyer_Graph_Convolutional_Networks_for_3D_Object_Detection_on_Radar_Data_ICCVW_2021_paper.html?ref=https://githubhelp.com)]
 * 2021 - **RADDet**: Range-Azimuth-Doppler based Radar Object Detection for Dynamic Road Users __`RAD`__ __`CRV`__ [__`RADDet`__][[Paper](https://ieeexplore.ieee.org/document/9469418)] [[Code](https://github.com/ZhangAoCanada/RADDet)]
 * 2022 - **DAROD**: A Deep Automotive Radar Object Detector on Range-Doppler maps __`RD`__ __`IV`__ [__`CARRADA`__ __`RADDet`__] [[Paper](https://ieeexplore.ieee.org/document/9827281)]
+* 2022 - A recurrent CNN for online object detection on raw radar frames [__`CARRADA`__ __`CRUW`__] [[Paper](https://arxiv.org/abs/2212.11172)]
+* 2022 - Radatron: Accurate Detection Using Multi-resolution Cascaded MIMO Radar __`ECCV`__ [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-19842-7_10)]
 * 2022 - **K-Radar**: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions __`RADE`__ __`NeurIPS`__ [__`K-Radar`__][[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
 * 2023 - **Enhanced K-Radar**: Optimal Density Reduction to Improve Detection Performance and Accessibility of 4D Radar Tensor-based Object Detection __`RADE`__ __`arXiv`__ [__`K-Radar`__][[Paper](https://arxiv.org/abs/2303.06342)]
+* 2023 - **YOLO-ORE**: A Deep Learning-Aided Object Recognition Approach for Radar Systems __`TVT`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9999316)]
 
 
 #### Segmentation
@@ -126,6 +136,9 @@
 * 2020 - Deep Open Space Segmentation using Automotive Radar __`RAD`__ __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9299052)]
 * 2021 - **PolarNet**: Accelerated Deep Open Space Segmentation using Automotive Radar in Polar Domain  __`RAD`__ __`VEHITS`__ [[Paper](https://arxiv.org/abs/2103.03387)]
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
+
+#### Tracking
+* 2022 - Exploiting Temporal Relations on Radar Perception for Autonomous Driving  __`CVPR`__ [[Paper](https://arxiv.org/abs/2204.01184)]
 
 #### Multi-Task
 * 2022 - [**FFT-RadNet**] Raw High-Definition Radar for Multi-Task Learning __`CVPR`__ [__`RADIal`__] [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Rebut_Raw_High-Definition_Radar_for_Multi-Task_Learning_CVPR_2022_paper.html)]
@@ -201,7 +214,7 @@
 
 
 #### Segmentation
-* 2019 - Road Scene Understanding by Occupancy Grid Learning from Sparse Radar Clusters using Semantic Segmentation __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Sless_Road_Scene_Understanding_by_Occupancy_Grid_Learning_from_Sparse_Radar_ICCVW_2019_paper.html)]
+* 2019 - Road Scene Understanding by Occupancy Grid Learning from Sparse Radar Clusters using Semantic Segmentation __`ICCV Workshop`__ [[Paper](https://openaccess.thecvf.com/content_ICCVW_2019/html/CVRSUAD/Sless_Road_Scene_Understanding_by_Occupancy_Grid_Learning_from_Sparse_Radar_ICCVW_2019_paper.html)]
 * CNN based road course estimation on automotive radar data with various gridmaps __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/document/9299086)]
 * 2020 - Scene Understanding With Automotive Radar __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8911477)]
 * 2023 - Semantic Segmentation-Based Occupancy Grid Map Learning With Automotive Radar Raw Data __`TIV`__ [__`RADIal`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10273590)]
