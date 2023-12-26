@@ -110,7 +110,7 @@
 
 #### Classification
 * 2019 - Deep Learning-based Object Classification on Automotive Radar Spectra __`RadarConf`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8835775)]
-* 2021 - Deep learning on automotive radar spectra and reflections for object classification __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8835775)]
+* 2021 - **DeepHybrid**: Deep learning on automotive radar spectra and reflections for object classification __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/8835775)]
 
 #### Detection
 * 2019 - Experiments with mmWave Automotive Radar Test-bed __`RA`__ __`ACSSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9048939)]
