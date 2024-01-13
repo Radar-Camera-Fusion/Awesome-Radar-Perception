@@ -181,7 +181,7 @@
 #### Tracking
 * 2020 - Detection and Tracking on Automotive Radar Data with Deep Learning __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9190261)]
 * 2023 - Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar? __`arXiv`__ [[Paper](https://arxiv.org/abs/2309.06036)]
-* 2023 - Moving Object Detection and Tracking with 4D Radar Point Cloud [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)]
+* 2024 - RaTrack: Moving Object Detection and Tracking with 4D Radar Point Cloud [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)]
 
 #### Scene Flow
 * 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356) [Code](https://github.com/Toytiny/RaFlow)]
