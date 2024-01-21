@@ -187,7 +187,6 @@
 * 2022 - Self-Supervised Scene Flow Estimation With 4-D Automotive Radar __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9810356) [Code](https://github.com/Toytiny/RaFlow)]
 * 2023 - **Hidden Gems**: 4D Radar Scene Flow Learning Using Cross-Modal Supervision-Supplementary Material [__`VoD`__] __`CVPR`__ [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Ding_Hidden_Gems_4D_Radar_Scene_Flow_Learning_Using_Cross-Modal_Supervision_CVPR_2023_paper.html) [Code](https://github.com/Toytiny/CMFlow)]
 
-
 #### Odometry
 * 2023 - Efficient Deep-Learning 4D Automotive Radar Odometry Method __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10237296)]
 * 2023 - **DRIO**: Robust Radar-Inertial Odometry in Dynamic Environments __`RAL`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10207713)]
@@ -238,7 +237,7 @@
 * 2019 - Extrinsic 6DoF calibration of a radar–LiDAR–camera system enhanced by radar cross section estimates evaluation [[Paper](https://www.sciencedirect.com/science/article/pii/S0921889018301994)]
 * 2021 - A Joint Extrinsic Calibration Tool for Radar, Camera and Lidar __`TIV`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9380784)]
 * 2021 - 3D Detection and Tracking for On-road Vehicles with a Monovision Camera and Dual Low-cost 4D mmWave Radars __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9564904)]
-* 2022 - 3DRadar2ThermalCalib: Accurate Extrinsic Calibration between a 3D mmWave Radar and a Thermal Camera Using a Spherical-Trihedral __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9922522)]
+* 2022 - **3DRadar2ThermalCalib**: Accurate Extrinsic Calibration between a 3D mmWave Radar and a Thermal Camera Using a Spherical-Trihedral __`ITSC`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9922522)]
 * 2022 - **K-Radar**: 4D Radar Object Detection for Autonomous Driving in Various Weather Conditions  __`NeurIPS`__ [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/hash/185fdf627eaae2abab36205dcd19b817-Abstract-Datasets_and_Benchmarks.html)] [[GitHub](https://github.com/kaist-avelab/k-radar)]
 
 ## Citation
