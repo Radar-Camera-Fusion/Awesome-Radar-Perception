@@ -74,6 +74,8 @@
 | 27 | ThermRad | 2023 | Object Detection| __`4D`__ Point Cloud | [Paper](https://arxiv.org/abs/2308.10161)|
 | 28 | NTU4DRadLM | 2023 | SLAM | __`4D`__ Point Cloud | [Paper](https://arxiv.org/abs/2310.0760) [GitHub](https://github.com/adept-thu/Dual-Radar)|
 | 29 | Dual Radar | 2023 | Object Detection<br>Object Tracking | __`4D`__ Point Cloud | [Paper](https://arxiv.org/abs/2310.0760) [GitHub](https://github.com/adept-thu/Dual-Radar)|
+| 30 | MiliPoint | 2024 |  Activity Recognition | Point Cloud | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c60468eca9cd0b0083f0ff9d0aeb171a-Abstract-Datasets_and_Benchmarks.html) [GitHub](https://github.com/yizzfz/MiliPoint)|
+| 31 | OORD | 2024 |  Place Recognition | Range-Azimuth Tensor | [Paper](https://arxiv.org/abs/2403.02845) [GitHub](https://github.com/mttgdd/oord-dataset)|
 
 ## Representations
 
@@ -136,6 +138,7 @@
 * 2020 - Deep Open Space Segmentation using Automotive Radar __`RAD`__ __`ICMIM`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9299052)]
 * 2021 - **PolarNet**: Accelerated Deep Open Space Segmentation using Automotive Radar in Polar Domain  __`RAD`__ __`VEHITS`__ [[Paper](https://arxiv.org/abs/2103.03387)]
 * 2021 - Multi-view Radar Semantic Segmentation __`RAD`__ __`ICCV`__ [[Paper](https://openaccess.thecvf.com/content/ICCV2021/html/Ouaknine_Multi-View_Radar_Semantic_Segmentation_ICCV_2021_paper.html)] [[GitHub](https://github.com/valeoai/MVRSS)]
+* 2024 - **TransRadar**: Adaptive-Directional Transformer for Real-Time Multi-View Radar Semantic Segmentation __`RAD`__ __`WACV`__ [[Paper](https://openaccess.thecvf.com/content/WACV2024/html/Dalbah_TransRadar_Adaptive-Directional_Transformer_for_Real-Time_Multi-View_Radar_Semantic_Segmentation_WACV_2024_paper.html)] [[GitHub](https://github.com/YahiDar/TransRadar)]
 
 #### Tracking
 * 2022 - Exploiting Temporal Relations on Radar Perception for Autonomous Driving  __`CVPR`__ [[Paper](https://arxiv.org/abs/2204.01184)]
