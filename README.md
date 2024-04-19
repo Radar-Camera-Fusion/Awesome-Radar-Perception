@@ -34,7 +34,7 @@
 
 
 ## Surveys
-* 2023 - Radar Perception in Autonomous Driving: Exploring Different Data Representations __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
+* 2023 - Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
 * 2023 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
 * 2023 - Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar __`CVPR Workshop`__ [[Paper](https://arxiv.org/abs/2308.05478)]
 * 2023 - Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges __`ACCESS`__ [[Paper](https://ieeexplore.ieee.org/document/10242101)]
@@ -247,8 +247,8 @@
 Please use the following citation when referencing
 ```
 @misc{yao2023radarperception,
-      title={Radar Perception in Autonomous Driving: Exploring Different Data Representations}, 
-      author={Shanliang Yao and Runwei Guan and Zitian Peng and Chenhang Xu and Yilu Shi and Yong Yue and Eng Gee Lim and Hyungjoon Seo and Ka Lok Man and Xiaohui Zhu and Yutao Yue},
+      title={Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}, 
+      author={Shanliang Yao and Runwei Guan and Zitian Peng and Chenhang Xu and Yilu Shi and Weiping Ding and Eng Gee Lim and Yong Yue and Hyungjoon Seo and Ka Lok Man and Jieming Ma and Xiaohui Zhu and Yutao Yue},
       year={2023},
       eprint={2312.04861},
       archivePrefix={arXiv},
