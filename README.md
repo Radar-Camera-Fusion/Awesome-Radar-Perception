@@ -169,6 +169,7 @@
 * 2023 - **SMURF**: Spatial Multi-Representation Fusion for 3D Object Detection with 4D Imaging Radar __`TIV`__ [__`VoD`__ __`TJ4DRadSet`__][[Paper](https://ieeexplore.ieee.org/abstract/document/10274127)]
 * 2023 - **MVFAN**: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__] [[Paper](https://arxiv.org/abs/2310.16389)]
 * 2023 - **See Beyond Seeing**: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.17336)]
+* 2024 - **DenserRadar**: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds [__`K-Radar`__] [[Paper](https://arxiv.org/abs/2405.05131)]
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
