@@ -170,6 +170,9 @@
 * 2023 - **MVFAN**: Multi-View Feature Assisted Network for 4D Radar Object Detection __`ICONIP`__ [__`Astyx`__ __`VoD`__] [[Paper](https://arxiv.org/abs/2310.16389)]
 * 2023 - **See Beyond Seeing**: Robust 3D Object Detection from Point Clouds via Cross-Modal Hallucination [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.17336)]
 * 2024 - **DenserRadar**: A 4D millimeter-wave radar point cloud detector based on dense LiDAR point clouds [__`K-Radar`__] [[Paper](https://arxiv.org/abs/2405.05131)]
+* 2024 - Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions __`ITSC`__ [__`K-Radar`__] [[Paper](https://arxiv.org/abs/2408.06772)]
+* 2024 - **RadarPillars**: Efficient Object Detection from 4D Radar Point Clouds __`ITSC`__ [__`VoD`__] [[Paper](https://arxiv.org/abs/2408.05020)]
+* 2024 - **L4DR**: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection __`arXiv`__ [__`VoD`__, __`K-Radar`__] [[Paper](https://arxiv.org/abs/2408.03677)]
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
