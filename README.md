@@ -20,7 +20,7 @@
     - [Classification](#classification)
     - [Detection](#detection-1)
     - [Segmentation](#segmentation-1)
-    - [Tracking](#tracking-2)
+    - [Tracking](#tracking-1)
     - [Scene Flow](#scene-flow)
     - [Odometry](#odometry)
     - [Gait Recognition](#gait-recognition)
@@ -173,6 +173,7 @@
 * 2024 - Exploring Domain Shift on Radar-Based 3D Object Detection Amidst Diverse Environmental Conditions __`ITSC`__ [__`K-Radar`__] [[Paper](https://arxiv.org/abs/2408.06772)]
 * 2024 - **RadarPillars**: Efficient Object Detection from 4D Radar Point Clouds __`ITSC`__ [__`VoD`__] [[Paper](https://arxiv.org/abs/2408.05020)]
 * 2024 - **L4DR**: LiDAR-4DRadar Fusion for Weather-Robust 3D Object Detection __`arXiv`__ [__`VoD`__, __`K-Radar`__] [[Paper](https://arxiv.org/abs/2408.03677)]
+* 2024 - Feature-enhanced PointPillars for 3D Millimeter-wave Object Detection __`TAES`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10742475/)]
 
 #### Segmentation
 * 2018 - Semantic Segmentation on Radar Point Clouds __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/document/8455344)]
