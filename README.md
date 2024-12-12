@@ -76,6 +76,7 @@
 | 29 | Dual Radar | 2023 | Object Detection<br>Object Tracking | __`4D`__ Point Cloud | [Paper](https://arxiv.org/abs/2310.0760) [GitHub](https://github.com/adept-thu/Dual-Radar)|
 | 30 | MiliPoint | 2024 |  Activity Recognition | Point Cloud | [Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/c60468eca9cd0b0083f0ff9d0aeb171a-Abstract-Datasets_and_Benchmarks.html) [GitHub](https://github.com/yizzfz/MiliPoint)|
 | 31 | OORD | 2024 |  Place Recognition | Range-Azimuth Tensor | [Paper](https://arxiv.org/abs/2403.02845) [GitHub](https://github.com/mttgdd/oord-dataset)|
+| 32 | V2X-Radar | 2024 |  Object Detection  | __`4D`__  Point cloud  | [Paper](https://arxiv.org/abs/2411.10962) [GitHub](http://openmpd.com/column/V2X-Radar)|
 
 ## Representations
 
@@ -188,6 +189,7 @@
 
 #### Tracking
 * 2020 - Detection and Tracking on Automotive Radar Data with Deep Learning __`FUSION`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/9190261)]
+* 2021 - Long-Range Multi-Object Tracking at Traffic Intersections on Low-Power Devices __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/9557791)]
 * 2023 - Which Framework is Suitable for Online 3D Multi-Object Tracking for Autonomous Driving with Automotive 4D Imaging Radar? __`arXiv`__ [[Paper](https://arxiv.org/abs/2309.06036)]
 * 2024 - **RaTrack**: Moving Object Detection and Tracking with 4D Radar Point Cloud __`ICRA`__ [__`VoD`__] [[Paper](https://arxiv.org/abs/2309.09737)] [[Code](https://github.com/ljacksonpan/ratrack)]
 
