@@ -34,8 +34,8 @@
 
 
 ## Surveys
-* 2023 - Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review __`arXiv`__ [[Paper](https://arxiv.org/abs/2312.04861)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
-* 2023 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
+* 2025 - Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review __`TITS`__ [[Paper](https://ieeexplore.ieee.org/document/10952908)] [[Website](https://radar-camera-fusion.github.io/radar)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Perception)]
+* 2024 - Radar-Camera Fusion for Object Detection and Semantic Segmentation in Autonomous Driving: A Comprehensive Review __`TIV`__ [[Paper](https://ieeexplore.ieee.org/document/10225711)] [[Website](https://radar-camera-fusion.github.io)] [[GitHub](https://github.com/Radar-Camera-Fusion/Awesome-Radar-Camera-Fusion)]
 * 2023 - Reviewing 3D Object Detectors in the Context of High-Resolution 3+1D Radar __`CVPR Workshop`__ [[Paper](https://arxiv.org/abs/2308.05478)]
 * 2023 - Radars for Autonomous Driving: A Review of Deep Learning Methods and Challenges __`ACCESS`__ [[Paper](https://ieeexplore.ieee.org/document/10242101)]
 * 2023 - Vehicle Detection for Autonomous Driving: A Review of Algorithms and Datasets __`TITS`__ [[Paper](https://ieeexplore.ieee.org/abstract/document/10196355)]
@@ -255,10 +255,12 @@ Please use the following citation when referencing
 ```
 @misc{yao2023radarperception,
       title={Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}, 
-      author={Shanliang Yao and Runwei Guan and Zitian Peng and Chenhang Xu and Yilu Shi and Weiping Ding and Eng Gee Lim and Yong Yue and Hyungjoon Seo and Ka Lok Man and Jieming Ma and Xiaohui Zhu and Yutao Yue},
-      year={2023},
-      eprint={2312.04861},
-      archivePrefix={arXiv},
-      primaryClass={cs.CV}
-}
+      author={Yao, Shanliang and Guan, Runwei and Peng, Zitian and Xu, Chenhang and Shi, Yilu and Ding, Weiping and Lim, Eng Gee and Yue, Yong and Seo, Hyungjoon and Man, Ka Lok and Ma, Jieming and Zhu, Xiaohui and Yue, Yutao},
+      journal={IEEE Transactions on Intelligent Transportation Systems}, 
+      title={Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}, 
+      year={2025},
+      volume={},
+      number={},
+      pages={1-25},
+      doi={10.1109/TITS.2025.3554781}}
 ```
