@@ -253,14 +253,13 @@
 ## Citation
 Please use the following citation when referencing
 ```
-@misc{yao2023radarperception,
+@misc{yao2025radar,
       title={Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}, 
       author={Yao, Shanliang and Guan, Runwei and Peng, Zitian and Xu, Chenhang and Shi, Yilu and Ding, Weiping and Lim, Eng Gee and Yue, Yong and Seo, Hyungjoon and Man, Ka Lok and Ma, Jieming and Zhu, Xiaohui and Yue, Yutao},
       journal={IEEE Transactions on Intelligent Transportation Systems}, 
-      title={Exploring Radar Data Representations in Autonomous Driving: A Comprehensive Review}, 
       year={2025},
-      volume={},
-      number={},
-      pages={1-25},
+      volume={26},
+      number={6},
+      pages={7401-7425},
       doi={10.1109/TITS.2025.3554781}}
 ```
